@@ -230,7 +230,7 @@ We welcome contributions from the community! This guide grows stronger with ever
 ### **VonHoltenCodes**
 
 [![GitHub](https://img.shields.io/badge/GitHub-VonHoltenCodes-181717?style=for-the-badge&logo=github)](https://github.com/VonHoltenCodes)
-[![Website](https://img.shields.io/badge/Website-VonHoltenCodes-4285F4?style=for-the-badge&logo=google-chrome)](https://vonholtencodes.com)
+[![Website](https://img.shields.io/badge/Website-VibeCodeChill-4285F4?style=for-the-badge&logo=google-chrome)](https://www.vibecodechill.ai)
 
 **Assisted by**: Claude Code 🤖
 
